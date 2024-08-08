@@ -1,0 +1,7 @@
+{
+    "file_type_for_s3":[".jpg", ".png", ".svg", ".webp",".mp3", ".mp4", ".mpeg4",".wmv", ".3gp", ".webm"],
+    "file_type_for_GD":[".doc", ".docx", ".csv",  ".pdf"],
+    "s3_bucket":"<<bucket_name>>",
+    "s3_region":"<<region_name>>",
+    "input_file_directory":null
+}
