@@ -1,8 +1,8 @@
 STEP  to Execute the Script 
 
-step 1: install the python lib using command - pip install -r requirement.txt
+step 1: install all the python lib using command - pip install -r requirement.txt
 
-step 2: Update config with file directory (optional), s3 details
+step 2: Update the config.json with file directory path (optional), s3 details
 
 step 3 : update client_secrete.json with actual clientId for google drive connection
 
